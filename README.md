@@ -17,10 +17,10 @@ This project is part of my Cybersecurity Internship under **SkillCraft Technolog
 
 ## 📦 Requirements
 
-Install the necessary Python packages:
+**Install the necessary Python packages:**
 
-```bash
-pip install pynput pywin32
+    ```bash
+    pip install pynput pywin32
 
 ## How It Works
 
