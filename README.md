@@ -46,3 +46,16 @@ openai.com[ENTER]
 **Always test in a sandboxed or authorized environment.**
 
 Created by codex21venom as part of a cybersecurity internship @SkillCraft_Technology.
+
+---
+
+### 🔍 Breakdown of Fixes
+
+| Problem | Fix |
+|--------|-----|
+| `pip install` not formatted | Wrapped it in a `bash` code block |
+| Header not rendered | Added a blank line before `## How It Works` |
+| Sample output messy | Used a code block for the multiline log preview |
+| Disclaimer not emphasized | Turned it into a blockquote for better style |
+
+---
